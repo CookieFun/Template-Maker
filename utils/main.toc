@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}DLX}{1}
+\contentsline {subsection}{\numberline {1.1}精确覆盖DLX}{1}
+\contentsline {subsection}{\numberline {1.2}重复覆盖DLX}{1}
+\contentsline {section}{\numberline {2}Gauss}{2}
+\contentsline {subsection}{\numberline {2.1}高斯double}{2}
+\contentsline {subsection}{\numberline {2.2}高斯消元}{2}
+\contentsline {subsection}{\numberline {2.3}高斯消元mod}{3}
+\contentsline {subsection}{\numberline {2.4}高斯消元xor}{4}
+\contentsline {section}{\numberline {3}NTT}{5}
+\contentsline {subsection}{\numberline {3.1}FFT}{5}
+\contentsline {subsection}{\numberline {3.2}NTT}{5}
+\contentsline {subsection}{\numberline {3.3}分治+fft}{6}
+\contentsline {section}{\numberline {4}math}{7}
+\contentsline {subsection}{\numberline {4.1}CRT}{7}
+\contentsline {subsection}{\numberline {4.2}LL 黑科技}{7}
+\contentsline {subsection}{\numberline {4.3}about prime}{7}
+\contentsline {subsection}{\numberline {4.4}ext\_gcd}{8}
+\contentsline {subsection}{\numberline {4.5}inv(gcd)}{8}
+\contentsline {subsection}{\numberline {4.6}phi}{8}
+\contentsline {section}{\numberline {5}spfa}{8}
+\contentsline {subsection}{\numberline {5.1}Spfa最短路}{8}
+\contentsline {section}{\numberline {6}划分树}{9}
+\contentsline {subsection}{\numberline {6.1}划分树比k小数量}{9}
+\contentsline {subsection}{\numberline {6.2}划分树第k大}{9}
+\contentsline {section}{\numberline {7}匈牙利}{10}
+\contentsline {subsection}{\numberline {7.1}二分匹配}{10}
+\contentsline {section}{\numberline {8}矩阵}{10}
+\contentsline {subsection}{\numberline {8.1}矩阵}{10}
+\contentsline {section}{\numberline {9}组合}{11}
+\contentsline {subsection}{\numberline {9.1}组合数求mod}{11}
+\contentsline {section}{\numberline {10}网络流}{11}
+\contentsline {subsection}{\numberline {10.1}MinCost\_bhb}{11}
+\contentsline {subsection}{\numberline {10.2}dinic\_bhb}{11}
